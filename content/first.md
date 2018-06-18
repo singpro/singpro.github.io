@@ -7,4 +7,4 @@ Authors: Foo Bar
 Summary: A test blog entry
 
 This is my first blog entry and it is a test.
-
+More to come here.
