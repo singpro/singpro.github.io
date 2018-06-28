@@ -1,10 +1,10 @@
-Title: Test blog for singpro
-Date: 2018-04-20 11:30
-Category: Test
-Tags: pelican, blogging, test
-slug:a_test
-Authors: Foo Bar
-Summary: A test blog entry
+Title: My first post
+Date: 2018-06-28 23:00
+Modified: 2018-06-28 23:01
+Category: misc
+Tags: first, misc
+Slug: My-first-post
+Authors: Tewodros
+Summary: More to come. Keep watch!
 
-This is my first blog entry and it is a test.
-More to come here. Test1. 
+This is the *first post* from Singpro project!
