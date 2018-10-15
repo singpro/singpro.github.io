@@ -44,7 +44,7 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 # static
-STATIC_PATHS = ['static', 'downloads']
+STATIC_PATHS = ['static', 'downloads', 'images']
 #THEME = '/u/49/tewodrod/unix/spike/pelican-bootstrap3-lovers'
 THEME = 'notmyidea'
 
@@ -57,3 +57,5 @@ MENUITEMS = (
     ('Contact', '/pages/contact.html'),
     ('Research', '/category/research.html')
     )
+
+SITELOGO = '/images/logo.png'
