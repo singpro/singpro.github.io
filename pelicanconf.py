@@ -52,7 +52,7 @@ DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
 
 MENUITEMS = (
-    ('Home', '/pages/home.html'),
+#    ('Home', '/pages/home.html'),
     ('About', '/pages/about.html'),
     ('Contact', '/pages/contact.html'),
     ('Research', '/category/research.html')
