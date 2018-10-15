@@ -44,7 +44,7 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 # static
-STATIC_PATHS = ['static']
+STATIC_PATHS = ['static', 'downloads']
 #THEME = '/u/49/tewodrod/unix/spike/pelican-bootstrap3-lovers'
 THEME = 'notmyidea'
 
