@@ -12,6 +12,3 @@ performance degradations (i.e. predictive maintenance) and anticipate process ti
 process behavior prediction). This helps to select the best production strategies in order to maintain
 production and energy efficiency as well as sustainability targets in rapidly changing market situations
 through data-driven self-adaptive scheduling models.
-
-
-

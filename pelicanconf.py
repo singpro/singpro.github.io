@@ -55,7 +55,7 @@ MENUITEMS = (
 #    ('Home', '/pages/home.html'),
     ('About', '/pages/about.html'),
     ('Contact', '/pages/contact.html'),
-    ('Research', '/category/research.html')
+    ('Seminars', '/category/seminars.html')
     )
 
 SITELOGO = '/images/logo.png'

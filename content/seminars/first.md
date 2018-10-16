@@ -1,9 +1,9 @@
 Title: Synergistic and intelligent process optimization (SINGPRO)
 Date: 2018-10-15 9:00
 Modified: 2018-10-15 13:00
-Category: research
-Tags: first, research
-Slug: research-01
+Category: seminars
+Tags: first, seminars
+Slug: seminar-01
 Authors: Singpro Team.
 Summary: First SINGPRO open seminar at Aalto University.
 
@@ -33,8 +33,7 @@ The schedule and the materials presented at the seminar can be found below:
 - 9:00 – 9:30 Coffee
 - 9:30 – 9:45 Introduction to the SINGPRO project (Adj. Prof. Iiro Harjunkoski)
 - 9:45 – 10:05 Machine learning for predictive maintenance (Dr. Tewodros Deneke)
-- 10:05 – 10:25 Parameter prediction and realization in job shop scheduling: A Gaussian process
-- approach (Dr. Teemu Ikonen)
+- 10:05 – 10:25 Parameter prediction and realization in job shop scheduling: A Gaussian process approach (Dr. Teemu Ikonen)
 - 10:25 – 10:45 Open discussion
 
 **You can find the slide that contains all the three presentations at the seminar form [here]({attach}/downloads/SINGPRO-2018-10-15.pdf)**   
