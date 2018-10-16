@@ -1,4 +1,4 @@
-Title: About 
+Title: Synergistic and intelligent process optimization (SINGPRO) 
 
 SINGPRO merges Big Data platforms, machine learning and data analytics methods with process
 planning and scheduling optimization. The project, funded by academy of Finland, is a collaborative
