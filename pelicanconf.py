@@ -45,8 +45,8 @@ DEFAULT_PAGINATION = 10
 
 # static
 STATIC_PATHS = ['static', 'downloads', 'images']
-#THEME = '/u/49/tewodrod/unix/spike/pelican-bootstrap3-lovers'
-THEME = 'notmyidea'
+THEME = 'themes/notmyidea-singpro'
+#THEME = 'notmyidea'
 
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
@@ -59,4 +59,5 @@ MENUITEMS = (
     ('Presentations', '/pages/presentations.html')
     )
 
-SITELOGO = '/images/logo.png'
+SITELOGO = '/images/logo.svg'
+#SITELOGO = '/images/logo_reduced.svg'
