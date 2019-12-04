@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Singpro</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2019-04-17T09:00:00+03:00</updated><entry><title>SINGPRO Seminar 17.4.2019</title><link href="/seminar-02.html" rel="alternate"></link><published>2019-04-17T09:00:00+03:00</published><updated>2019-04-17T09:00:00+03:00</updated><author><name>Singpro Team.</name></author><id>tag:None,2019-04-17:/seminar-02.html</id><summary type="html">&lt;p&gt;Second SINGPRO open seminar at Aalto University.&lt;/p&gt;</summary><content type="html">&lt;p&gt;We have held our second open seminar for the project at Aalto University on the 17th of April 2019 
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Singpro</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2019-11-19T09:00:00+02:00</updated><entry><title>SINGPRO Seminar 19.11.2019</title><link href="/seminar-03.html" rel="alternate"></link><published>2019-11-19T09:00:00+02:00</published><updated>2019-11-19T09:00:00+02:00</updated><author><name>Singpro Team.</name></author><id>tag:None,2019-11-19:/seminar-03.html</id><summary type="html">&lt;p&gt;Third SINGPRO open seminar at Aalto University.&lt;/p&gt;</summary><content type="html">&lt;p&gt;We have held our third open seminar for the project at Aalto University on the 19th of November 2019 
+between 9-11am. We thank everyone who joined the seminar either physically or over the internet.
+The purpose of the seminar was to introduce the project to our academic and industrial
+partners, present current research results and open a platform for discussion of problems and solutions
+in industrial processes.&lt;/p&gt;
+&lt;p&gt;The schedule and the materials presented at the seminar can be found below:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;9:00 – 9:30 Coffee&lt;/li&gt;
+&lt;li&gt;9:30 – 10:30 Combining Data Analytics and Scheduling – First Results and Open Challenges (Profs. Iiro Harjunkoski &amp;amp; Keijo Heljanko)&lt;/li&gt;
+&lt;li&gt;10:30 – 11:00 Open discussion&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--
+**You can find the slides of the presentation [here]({attach}/downloads/2019-04-17-SINGPRO-seminar-slides.pdf)**   
+--&gt;</content><category term="third"></category><category term="seminars"></category></entry><entry><title>SINGPRO Seminar 17.4.2019</title><link href="/seminar-02.html" rel="alternate"></link><published>2019-04-17T09:00:00+03:00</published><updated>2019-04-17T09:00:00+03:00</updated><author><name>Singpro Team.</name></author><id>tag:None,2019-04-17:/seminar-02.html</id><summary type="html">&lt;p&gt;Second SINGPRO open seminar at Aalto University.&lt;/p&gt;</summary><content type="html">&lt;p&gt;We have held our second open seminar for the project at Aalto University on the 17th of April 2019 
 between 9-11am. We thank everyone who joined the seminar either physically or over the internet.
 The purpose of the seminar was to introduce the project to our academic and industrial
 partners, present current research results and open a platform for discussion of problems and solutions
