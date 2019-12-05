@@ -55,8 +55,10 @@ MENUITEMS = (
 #    ('Home', '/pages/home.html'),
     ('About', '/pages/about.html'),
     ('Contact', '/pages/contact.html'),
+    ('Publications', '/pages/publications.html'),
     ('Seminars', '/category/seminars.html'),
-    ('Presentations', '/pages/presentations.html')
+    ('Presentations', '/pages/presentations.html'),
+    ('Collaborators', '/pages/collaborators.html')
     )
 
 SITELOGO = '/images/logo.svg'
