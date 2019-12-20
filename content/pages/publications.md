@@ -8,11 +8,14 @@ Title: Publications
 
 **Submitted Manuscripts**
 
-- Ikonen, T. J., Mostafaei, H., Ye, Y., Bernal, D. E., Grossmann, I. E., & Harjunkoski, I. Large-scale selective
+- Mostafaei, H., Ikonen, T. J., Kramb, J., Deneke, T., Heljanko, K. & Harjunkoski, I. Data-Driven Approach to Grade Change Scheduling Optimization in a Paper Machine. *Submitted to Industrial & Engineering Chemistry Research*.
+
+- Ikonen, T. J., Heljanko, K. & Harjunkoski, I. Reinforcement learning of adaptive decision-making on online
+rescheduling procedures. *Submitted to Computers & Chemical Engineering*.
+
+- Ikonen, T. J., Mostafaei, H., Ye, Y., Bernal, D. E., Grossmann, I. E. & Harjunkoski, I. Large-scale selective
 maintenance optimization using bathtub-shaped failure rates. *Submitted to Reliability Engineering & System Safety*.
 
-- Ikonen, T. J., Heljanko, K., & Harjunkoski, I. Reinforcement learning of adaptive decision-making on online
-rescheduling procedures. *Submitted to Computers & Chemical Engineering*.
 
 **Conference Papers**
 
