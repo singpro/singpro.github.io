@@ -14,7 +14,7 @@ Title: Publications
 rescheduling procedures. *Submitted to Computers & Chemical Engineering*.
 
 - Ikonen, T. J., Mostafaei, H., Ye, Y., Bernal, D. E., Grossmann, I. E. & Harjunkoski, I. Large-scale selective
-maintenance optimization using bathtub-shaped failure rates. *Submitted to Reliability Engineering & System Safety*.
+maintenance optimization using bathtub-shaped failure rates. *Submitted to Computers & Chemical Engineering*.
 
 
 **Conference Papers**
