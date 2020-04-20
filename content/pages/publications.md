@@ -2,20 +2,19 @@ Title: Publications
 
 **Journal Papers**
 
+- Ikonen, T. J., Mostafaei, H., Ye, Y., Bernal, D. E., Grossmann, I. E. & Harjunkoski, I. Large-scale selective
+maintenance optimization using bathtub-shaped failure rates. *Computers & Chemical Engineering (in press)*.
+
+- Mostafaei, H., Ikonen, T. J., Kramb, J., Deneke, T., Heljanko, K. & Harjunkoski, I. Data-Driven Approach to Grade Change Scheduling Optimization in a Paper Machine. *Industrial & Engineering Chemistry Research (in press)*. <https://doi.org/10.1021/acs.iecr.9b06907>
+
 - Mostafaei, H. & Harjunkoski, I. (2019). Continuous‐time scheduling formulation for multipurpose batch plants. *AIChE Journal (in press)*. <https://doi.org/10.1002/aic.16804>.
 
 - Mostafaei, H., Castro, P. M., Relvas, S. & Harjunkoski, I. (2019). A holistic MILP model for scheduling and inventory management of a multiproduct oil distribution system. *Omega (in press)*. <https://doi.org/10.1016/j.omega.2019.102110>.
 
 **Submitted Manuscripts**
 
-- Mostafaei, H., Ikonen, T. J., Kramb, J., Deneke, T., Heljanko, K. & Harjunkoski, I. Data-Driven Approach to Grade Change Scheduling Optimization in a Paper Machine. *Submitted to Industrial & Engineering Chemistry Research*.
-
 - Ikonen, T. J., Heljanko, K. & Harjunkoski, I. Reinforcement learning of adaptive decision-making on online
 rescheduling procedures. *Submitted to Computers & Chemical Engineering*.
-
-- Ikonen, T. J., Mostafaei, H., Ye, Y., Bernal, D. E., Grossmann, I. E. & Harjunkoski, I. Large-scale selective
-maintenance optimization using bathtub-shaped failure rates. *Submitted to Computers & Chemical Engineering*.
-
 
 **Conference Papers**
 
